@@ -1,0 +1,125 @@
+{
+    "id": "19956202-880e-4b3b-b034-c039aa6afe0b",
+    "name": "Fixture tests: DeepThoughts.js",
+    "defaultReportView": "grid",
+    "status": "succeeded",
+    "path": "C:\\Users\\Dell\\TestCafeStudio\\reports\\19956202-880e-4b3b-b034-c039aa6afe0b\\report.json",
+    "outputPath": "C:\\Users\\Dell\\TestCafeStudio\\reports\\19956202-880e-4b3b-b034-c039aa6afe0b\\output.log",
+    "runOptions": {
+        "name": "Fixture tests: DeepThoughts.js",
+        "src": [
+            "C:\\Users\\Dell\\TestCafeStudio\\sudeshna\\DeepThoughts.js"
+        ],
+        "browsers": [
+            "edge"
+        ],
+        "skipJsErrors": false,
+        "takeScreenshotsOnFails": false,
+        "quarantineMode": false,
+        "debugMode": false,
+        "debugOnFail": false,
+        "skipUncaughtErrors": false,
+        "stopOnFirstFail": false,
+        "disablePageCaching": false,
+        "disableMultipleWindows": false,
+        "screenshotsPath": "C:\\Users\\Dell\\TestCafeStudio\\reports\\screenshots",
+        "defaultReportView": "grid",
+        "selectorTimeout": 10000,
+        "assertionTimeout": 3000,
+        "pageLoadTimeout": 3000,
+        "ajaxRequestTimeout": 120000,
+        "pageRequestTimeout": 25000,
+        "browserInitTimeout": 120000,
+        "speed": 1,
+        "concurrency": 1
+    },
+    "testCafeOptions": {},
+    "raw": [
+        {
+            "method": "reportTaskStart",
+            "args": [
+                "2023-09-08T16:45:33.840Z",
+                [
+                    "Microsoft Edge 116.0.1938.69 / Windows 10"
+                ],
+                4
+            ]
+        },
+        {
+            "method": "reportFixtureStart",
+            "args": [
+                "Automation for login",
+                "C:\\Users\\Dell\\TestCafeStudio\\sudeshna\\DeepThoughts.js",
+                {}
+            ]
+        },
+        {
+            "method": "reportTestStart",
+            "args": [
+                "Verify user can login with valid credentials",
+                {}
+            ]
+        },
+        {
+            "method": "reportTestDone",
+            "args": [
+                "Verify user can login with valid credentials",
+                "{\"errs\":[],\"warnings\":[],\"reportData\":{\"5KvG39Hv4\":[]},\"durationMs\":21378,\"unstable\":false,\"screenshotPath\":null,\"screenshots\":[],\"videos\":[],\"quarantine\":null,\"skipped\":false,\"browsers\":[{\"testRunId\":\"5KvG39Hv4\",\"name\":\"Microsoft Edge\",\"version\":\"116.0.1938.69\",\"platform\":\"desktop\",\"os\":{\"name\":\"Windows\",\"version\":\"10\"},\"engine\":{\"name\":\"Blink\",\"version\":\"0.0\"},\"prettyUserAgent\":\"Microsoft Edge 116.0.1938.69 / Windows 10\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69\",\"alias\":\"edge\",\"headless\":false}],\"testId\":\"JghFwuV\",\"fixture\":{\"id\":\"Lg2Ioru\",\"name\":\"Automation for login\",\"path\":\"C:\\\\Users\\\\Dell\\\\TestCafeStudio\\\\sudeshna\\\\DeepThoughts.js\",\"meta\":{}}}",
+                {}
+            ]
+        },
+        {
+            "method": "reportTestStart",
+            "args": [
+                "Verify user can login with invalid credentials",
+                {}
+            ]
+        },
+        {
+            "method": "reportTestDone",
+            "args": [
+                "Verify user can login with invalid credentials",
+                "{\"errs\":[],\"warnings\":[],\"reportData\":{\"FquyNHmnM\":[]},\"durationMs\":14827,\"unstable\":false,\"screenshotPath\":null,\"screenshots\":[],\"videos\":[],\"quarantine\":null,\"skipped\":false,\"browsers\":[{\"testRunId\":\"FquyNHmnM\",\"name\":\"Microsoft Edge\",\"version\":\"116.0.1938.69\",\"platform\":\"desktop\",\"os\":{\"name\":\"Windows\",\"version\":\"10\"},\"engine\":{\"name\":\"Blink\",\"version\":\"0.0\"},\"prettyUserAgent\":\"Microsoft Edge 116.0.1938.69 / Windows 10\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69\",\"alias\":\"edge\",\"headless\":false}],\"testId\":\"4dWSLYj\",\"fixture\":{\"id\":\"Lg2Ioru\",\"name\":\"Automation for login\",\"path\":\"C:\\\\Users\\\\Dell\\\\TestCafeStudio\\\\sudeshna\\\\DeepThoughts.js\",\"meta\":{}}}",
+                {}
+            ]
+        },
+        {
+            "method": "reportTestStart",
+            "args": [
+                "Verify user can login with blank credentials",
+                {}
+            ]
+        },
+        {
+            "method": "reportTestDone",
+            "args": [
+                "Verify user can login with blank credentials",
+                "{\"errs\":[],\"warnings\":[],\"reportData\":{\"rUOKmI5YP\":[]},\"durationMs\":11474,\"unstable\":false,\"screenshotPath\":null,\"screenshots\":[],\"videos\":[],\"quarantine\":null,\"skipped\":false,\"browsers\":[{\"testRunId\":\"rUOKmI5YP\",\"name\":\"Microsoft Edge\",\"version\":\"116.0.1938.69\",\"platform\":\"desktop\",\"os\":{\"name\":\"Windows\",\"version\":\"10\"},\"engine\":{\"name\":\"Blink\",\"version\":\"0.0\"},\"prettyUserAgent\":\"Microsoft Edge 116.0.1938.69 / Windows 10\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69\",\"alias\":\"edge\",\"headless\":false}],\"testId\":\"8Vd3V1k\",\"fixture\":{\"id\":\"Lg2Ioru\",\"name\":\"Automation for login\",\"path\":\"C:\\\\Users\\\\Dell\\\\TestCafeStudio\\\\sudeshna\\\\DeepThoughts.js\",\"meta\":{}}}",
+                {}
+            ]
+        },
+        {
+            "method": "reportTestStart",
+            "args": [
+                "Verify user can reset password",
+                {}
+            ]
+        },
+        {
+            "method": "reportTestDone",
+            "args": [
+                "Verify user can reset password",
+                "{\"errs\":[],\"warnings\":[],\"reportData\":{\"AZyyHze4G\":[]},\"durationMs\":11150,\"unstable\":false,\"screenshotPath\":null,\"screenshots\":[],\"videos\":[],\"quarantine\":null,\"skipped\":false,\"browsers\":[{\"testRunId\":\"AZyyHze4G\",\"name\":\"Microsoft Edge\",\"version\":\"116.0.1938.69\",\"platform\":\"desktop\",\"os\":{\"name\":\"Windows\",\"version\":\"10\"},\"engine\":{\"name\":\"Blink\",\"version\":\"0.0\"},\"prettyUserAgent\":\"Microsoft Edge 116.0.1938.69 / Windows 10\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69\",\"alias\":\"edge\",\"headless\":false}],\"testId\":\"nW3KJc5\",\"fixture\":{\"id\":\"Lg2Ioru\",\"name\":\"Automation for login\",\"path\":\"C:\\\\Users\\\\Dell\\\\TestCafeStudio\\\\sudeshna\\\\DeepThoughts.js\",\"meta\":{}}}",
+                {}
+            ]
+        },
+        {
+            "method": "reportTaskDone",
+            "args": [
+                "2023-09-08T16:46:34.121Z",
+                4,
+                []
+            ]
+        }
+    ]
+}

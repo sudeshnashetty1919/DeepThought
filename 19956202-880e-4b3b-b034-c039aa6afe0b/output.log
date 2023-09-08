@@ -1,0 +1,13 @@
+(node:13160) Warning: Using insecure HTTP parsing
+(Use `TestCafe Studio --trace-warnings ...` to show where the warning was created)
+ Running tests in:
+ - Microsoft Edge 116.0.1938.69 / Windows 10
+
+ Automation for login
+ √ Verify user can login with valid credentials
+ √ Verify user can login with invalid credentials
+ √ Verify user can login with blank credentials
+ √ Verify user can reset password
+
+
+ 4 passed (1m 00s)
